@@ -8,4 +8,6 @@ just in case	  ->			   só por acaso/ só por precaução  ->	Here are the keys,
 isn't it		  ->			   não é/ né					-> Wonderful system, isn't it?
 scared      	  ->			   assustado/ com medo			-> Sometimes I was a little scared.
 even more		  ->			   ainda mais/ ainda menos		-> Driving feels even more dynamic
+read			  ->			   ler/ ouvir					-> Please read the information below carefully.
+probably		  ->			   provavelmente				-> He killed Pierce and probably Erikson.
 
