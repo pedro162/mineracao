@@ -7,3 +7,6 @@ on their own	  ->			   por conta própria / sozinhos -> Most cases require minim
 shelter			  ->			   abrigo / refúgio				-> Needing shelter, somewhere to call home.
 impressed		  ->			   impressionado / impresso  	-> I was impressed by the way GoboLinux handled.
 invitations		  ->			   convites / contite			-> These invitations show artistic recognition group.
+survival		  ->			   sobrevivencia / sobrevivente -> Kaplan-Meier survival curve of group 2.
+ordeal			  ->			   prova / calvário				-> But this is only just the beginning of their ordeal.
+at least		  ->			   pelomenos / ao menos 		-> Interval of at least 30 minutes.After exercise or meal.
