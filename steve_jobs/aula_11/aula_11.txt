@@ -1,1 +1,12 @@
 Frsase   		->               		Significado              			-> Exemplo 
+
+Later			->						mais tarde/ depois					->Later that company changed its name to Groundforce.
+biopsy			->						biópsia								-> The biopsy showed 2 of the 6 cores with cancer.
+throat			->						garganta / pescoço					-> He put something around my throat.
+stomach			->						estômago / barriga					-> Johnny came home early with an upset stomach.
+viewed			->						visto/ viu							-> The service costs 0.25 Euro per video viewed.
+turned out		->						acabou / afinal						-> Look how well you turned out.
+thankfully		->						felizmente / ainda bem				-> But thankfully, data can be retrieved.
+closest			->						maix próximo						-> The closest hospitals are Presbyterian and Bellevue.
+
+purely			->						puramente / meramente				-> Killing is purely business for me.
