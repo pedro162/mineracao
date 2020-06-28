@@ -1,1 +1,20 @@
-aula_2.txt
+Frsase            ->               Significado              		-> Exemplo para estudo
+
+fast food	      ->			   comida rápida / comida pronta 	-> Medicine is like fast food these days.
+oversized		  ->			   enorme / gigante					-> An oversized ego would have nothing to do with it.
+
+coworkers		  ->			   colegas de trabalho / parceiros  -> This alarms all of her coworkers.
+look over 		  -> 			   olhar para / dar uma olhada		-> You got to look over their heads.
+diagonally		  ->			   diagonalmente / na diagonal 		-> I think... we should climb diagonally.
+fill out		  -> 			   preecher / completar				-> Mom said we need them to fill out the team.
+clock out		  ->			   relogio de parede / relógio de fora -> Do that, and then you can clock out.
+heat up			  ->			   aquecer / esquentar				-> Things are about to heat up in here.
+desserts		  ->			   sobremesa / doces				-> The desserts and breakfast are served generously.
+
+sudden			  ->			   derepente / súbito				-> And then a sudden moment of madness.
+arrived			  ->			   chegado / vindo					-> Their fate was sealed long before we arrived.
+parking lot		  ->			   estacionamento					-> You confronted her in a parking lot.
+eerie			  ->			   estranho / misterioso			-> The eerie silence here is only broken in spring.
+trudged			  ->			   arrastava-se						-> That man trudged from disease to disease.
+pulled			  ->			   puxado / puxou					-> And somehow Maddy got pulled here.
+budge			  ->			   mexer / mover					-> But until that time, you can't budge.
